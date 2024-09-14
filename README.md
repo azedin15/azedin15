@@ -1,4 +1,4 @@
-Azzedine Maoukouf
+***Azzedine Maoukouf***
 **Senior Financial Controller & Data Science Enthusiast**
 📍 Casablanca, Morocco
 📧 [azedin-ma@hotmail.com](mailto:azedin-ma@hotmail.com)
