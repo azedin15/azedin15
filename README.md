@@ -3,9 +3,13 @@
 
 
 **Senior Financial Controller & Data Science Enthusiast**
+
 📍 Casablanca, Morocco
+
 📧 [azedin-ma@hotmail.com](mailto:azedin-ma@hotmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/azzedine-maoukouf)
+
 About Me
 With over 9 years of experience in financial management and controlling, I have a proven track record in driving digital transformation and optimizing financial processes within BNP Paribas Group entities. My expertise spans the implementation of cost management tools, financial reporting automation, and the development of data-driven solutions. I’m passionate about leveraging data science to enhance financial decision-making and streamline operations.
 Professional Experience
